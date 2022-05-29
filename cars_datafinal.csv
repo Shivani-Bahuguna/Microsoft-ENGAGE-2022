@@ -1,0 +1,1008 @@
+,Fuel_Type,Body_Type,Gears,Seating_Capacity,Ventilation_System,Airbags,Navigation_System,Model_Name,Mileage,Fuel_Capacity,Price
+0,Petrol,Hatchback,4,4.0,Manual Air conditioning with cooling and heating,None,None,Tata Nano Genx,23.6,24.0,292667
+1,Petrol,Hatchback,4,4.0,None,None,None,Tata Nano Genx,23.6,24.0,236447
+2,CNG,Hatchback,4,4.0,Air Conditioning with cooling only,None,None,Tata Nano Genx,36.0,15.0,296661
+3,Petrol,Hatchback,5,4.0,Manual Air conditioning with cooling and heating,None,None,Tata Nano Genx,21.9,24.0,334768
+4,Petrol,Hatchback,4,4.0,Air Conditioning with cooling only,None,None,Tata Nano Genx,23.6,24.0,272223
+5,Petrol,Hatchback,5,4.0,Air Conditioning with cooling only,None,None,Tata Nano Genx,21.9,24.0,314815
+6,Petrol,Hatchback,5,5.0,Yes,None,None,Datsun Redi-Go,25.17,28.0,279650
+7,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Datsun Redi-Go,25.17,28.0,351832
+8,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Datsun Redi-Go,25.17,28.0,333419
+9,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Datsun Redi-Go,25.17,28.0,362000
+10,Petrol,Hatchback,5,5.0,Air Conditioning with cooling only,None,None,Datsun Redi-Go,22.5,28.0,390000
+11,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Datsun Redi-Go,23.0,28.0,437065
+12,Petrol,Hatchback,6,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Renault Kwid,25.17,28.0,353290
+13,Petrol,Hatchback,5,5.0,Heater,Driver frontal airbag,None,Renault Kwid,25.17,28.0,283290
+14,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Renault Kwid,25.17,28.0,383290
+15,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,Yes,Renault Kwid,25.17,28.0,413290
+16,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Renault Kwid,23.01,28.0,433290
+17,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Renault Kwid,23.01,28.0,454490
+20,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Kwid,23.01,28.0,440990
+21,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Kwid,23.01,28.0,470990
+22,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Kwid,23.01,28.0,462190
+24,Petrol,MPV,5,5.0,None,Driver frontal airbag,None,Maruti Suzuki Eeco,15.0,40.0,352136
+25,Petrol,MPV,5,7.0,None,Driver frontal airbag,None,Maruti Suzuki Eeco,15.0,40.0,380573
+26,Petrol,MPV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Eeco,15.0,40.0,392967
+27,CNG,MPV,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Eeco,20.0,40.0,466057
+28,CNG,MPV,5,5.0,Heater,Driver frontal airbag,None,Maruti Suzuki Eeco,20.0,40.0,425255
+29,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,24.07,35.0,377588
+30,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,24.07,35.0,394036
+31,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,24.07,35.0,360843
+32,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,24.07,35.0,407238
+33,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,32.26,35.0,439777
+34,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto K10,24.07,35.0,438559
+35,Petrol,Hatchback,5,5.0,Heater,"Driver frontal airbag, Front passenger frontal airbag",None,Datsun Go,20.1,35.0,374990
+36,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,468229
+37,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,502492
+38,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Datsun Go,20.1,35.0,499990
+39,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Datsun Go,20.1,35.0,469990
+40,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,528464
+41,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,553015
+42,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,594464
+43,Petrol,Hatchback,5,5.0,"Heater, Manual Air conditioning with cooling and heating","Driver frontal airbag, Front passenger frontal airbag",Yes,Datsun Go,20.1,35.0,618015
+44,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio Tour,23.1,35.0,422444
+45,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio Tour,31.76,60.0,480670
+46,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Santro,20.3,35.0,429990
+47,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Santro,20.3,35.0,503990
+48,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Santro,30.48,35.0,547990
+49,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Santro,20.3,35.0,530990
+50,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,Yes,Hyundai Santro,20.3,35.0,512990
+51,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,Yes,Hyundai Santro,30.48,60.0,578990
+52,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,Yes,Hyundai Santro,20.3,35.0,570990
+53,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",Yes,Hyundai Santro,20.3,35.0,556490
+54,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Tiago,23.0,35.0,460000
+55,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,23.0,35.0,520000
+56,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,23.0,35.0,570000
+57,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,23.0,35.0,599000
+58,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,23.0,35.0,610000
+59,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,24.0,35.0,620000
+60,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,24.0,35.0,649000
+61,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago,24.0,35.0,660000
+62,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio X,23.1,35.0,481074
+63,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio X,23.1,35.0,475198
+64,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio X,23.1,35.0,518198
+65,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio X,23.1,35.0,524074
+66,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio X,23.1,35.0,499734
+67,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio X,23.1,35.0,540350
+68,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio X,23.1,35.0,542735
+69,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio X,23.1,35.0,552350
+72,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ignis,20.89,32.0,607841
+73,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ignis,20.89,32.0,560841
+77,Petrol,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Triber,20.5,40.0,495000
+78,Petrol,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Triber,20.5,40.0,559000
+79,Petrol,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Triber,20.5,40.0,609000
+80,Petrol,MUV,5,7.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Renault Triber,20.5,40.0,663000
+81,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Premier Rio,16.0,46.0,506000
+82,Diesel,SUV,5,5.0,None,None,None,Premier Rio,16.0,46.0,568623
+83,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Premier Rio,16.0,46.0,670000
+84,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Premier Rio,16.0,46.0,603000
+85,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Premier Rio,16.0,46.0,739000
+86,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Premier Rio,23.7,46.0,739000
+87,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,520300
+88,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,581000
+89,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,647800
+90,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,630000
+91,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,745000
+92,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,704000
+93,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,597700
+94,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,720700
+95,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,641700
+96,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,756700
+97,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,558400
+98,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,686000
+99,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,18.16,45.0,662700
+100,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Liva,23.59,45.0,777700
+101,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra Active,18.97,41.0,525021
+102,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra Active,19.49,41.0,599950
+103,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra Active,18.97,41.0,563133
+104,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Bolt,22.95,44.0,787980
+105,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Bolt,22.95,44.0,661111
+106,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Bolt,22.95,44.0,693798
+107,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Bolt,22.95,44.0,719661
+108,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Bolt,17.57,44.0,674960
+109,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Bolt,17.57,44.0,529035
+110,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Bolt,17.57,44.0,590268
+111,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Bolt,17.57,44.0,614515
+112,CNG + Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Hyundai Xcent Prime,25.0,43.0,556130
+113,Petrol,Sedan,5,5.0,Yes,None,None,Hyundai Xcent Prime,15.7,43.0,536859
+115,CNG + Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Hyundai Xcent Prime,25.0,43.0,536859
+116,Diesel,Sedan,5,5.0,Yes,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Xcent Prime,20.14,43.0,639616
+117,Diesel,Sedan,5,5.0,Yes,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Xcent Prime,20.0,43.0,620297
+119,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Dzire Tour,22.0,42.0,553423
+120,CNG,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Dzire Tour,26.6,42.0,598940
+121,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,18.6,45.0,559693
+122,Diesel,Hatchback,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,22.54,45.0,697803
+123,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,18.6,45.0,634950
+124,Diesel,Hatchback,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,22.54,45.0,770803
+125,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Elite I20,18.6,45.0,721693
+126,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,22.54,45.0,876103
+127,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Hyundai Elite I20,18.15,45.0,808993
+128,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Hyundai Elite I20,22.54,45.0,934003
+129,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,18.6,45.0,920993
+130,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,18.6,45.0,751693
+131,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Elite I20,18.6,45.0,831693
+132,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Elite I20,22.54,45.0,846103
+133,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,579900
+134,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,655900
+135,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.1,37.0,705800
+136,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,729900
+137,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.1,37.0,804800
+138,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,785900
+139,CNG + Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,728900
+140,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.5,37.0,854900
+141,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,25.35,37.0,773800
+142,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,20.4,37.0,823700
+143,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,25.4,37.0,922700
+144,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Aura,25.35,37.0,903800
+145,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Volkswagen Polo,18.78,45.0,582000
+146,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Volkswagen Polo,18.78,45.0,676500
+147,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Polo,18.78,45.0,776500
+148,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Volkswagen Polo,20.14,45.0,734500
+149,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Volkswagen Polo,20.14,45.0,851500
+150,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Polo,20.14,45.0,931500
+151,Petrol,Hatchback,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Polo,17.21,45.0,976000
+152,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Polo,19.91,45.0,988500
+153,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,582613
+154,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,673112
+155,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,666622
+156,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,732113
+157,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,757622
+158,Petrol,Sedan,4,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,720112
+159,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,863122
+160,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,816622
+161,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,821613
+162,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,779113
+163,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,22.0,37.0,868613
+164,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,906122
+165,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,804622
+166,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Dzire,28.4,37.0,952622
+167,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Freestyle,24.4,40.0,676400
+168,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Freestyle,24.4,40.0,790900
+169,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",None,Ford Freestyle,24.4,40.0,836400
+170,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Freestyle,19.0,42.0,591400
+171,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Ford Freestyle,19.0,42.0,721400
+172,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",None,Ford Freestyle,19.0,42.0,756400
+173,Petrol,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Freestyle,19.0,42.0,681400
+174,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Freestyle,24.4,42.0,745900
+177,Diesel,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Volkswagen Ameo,21.73,45.0,999900
+179,Petrol,Sedan,5,5.0,Air Conditioning with cooling only,"Front passenger frontal airbag, Driver frontal airbag",None,Volkswagen Ameo,19.0,45.0,594000
+180,Petrol,Sedan,5,5.0,Air Conditioning with cooling only,"Front passenger frontal airbag, Driver frontal airbag",None,Volkswagen Ameo,19.0,45.0,665000
+181,Petrol,Sedan,5,5.0,Air Conditioning with cooling only,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Ameo,19.0,45.0,799900
+182,Diesel,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Volkswagen Ameo,21.73,45.0,999900
+183,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Aspire,20.4,42.0,598500
+184,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,20.4,42.0,697400
+185,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Aspire,20.4,42.0,663400
+186,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Aspire,26.1,40.0,699400
+187,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Aspire,26.1,40.0,737400
+188,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,26.1,40.0,777400
+189,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,26.1,40.0,817400
+190,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",Yes,Ford Aspire,26.1,40.0,862400
+191,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Ford Aspire,19.4,42.0,782400
+192,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,19.4,42.0,737400
+193,CNG,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,20.4,42.0,758314
+194,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Aspire,19.4,42.0,762400
+195,Diesel,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Ford Aspire,26.1,40.0,842400
+196,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,16.78,45.0,627100
+197,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,16.78,45.0,718600
+198,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,23.59,45.0,734700
+199,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,23.59,45.0,828600
+200,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,23.59,45.0,888400
+201,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,16.78,45.0,778400
+202,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,16.78,45.0,689600
+203,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,23.59,45.0,799600
+204,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,23.59,45.0,913400
+205,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Platinum Etios,16.78,45.0,803400
+206,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,16.78,45.0,802000
+207,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,17.71,45.0,650000
+208,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,23.59,45.0,797500
+209,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,23.59,45.0,766000
+210,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,17.71,45.0,668500
+211,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Etios Cross,23.59,45.0,816000
+212,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Verito Vibe,20.08,50.0,657628
+213,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Verito Vibe,20.08,50.0,685729
+214,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Mahindra Verito Vibe,20.08,50.0,750428
+219,Petrol,Hatchback,5,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Glanza,23.87,37.0,721900
+220,Petrol,Hatchback,5,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Toyota Glanza,21.01,37.0,758200
+221,Petrol,Hatchback,5,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Glanza,19.56,37.0,829900
+222,Petrol,Hatchback,5,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Toyota Glanza,19.56,37.0,890200
+223,Petrol,Hatchback,5,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",None,Toyota Glanza,19.56,37.0,697900
+224,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Avventura,20.5,45.0,796132
+225,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Avventura,20.5,45.0,711801
+226,Diesel,Crossover,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Fiat Avventura,20.5,45.0,876341
+227,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,18.2,40.0,745000
+228,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,19.0,40.0,909000
+229,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Jazz,18.2,40.0,789000
+230,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,19.0,40.0,865000
+231,Diesel,Hatchback,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,27.3,40.0,816500
+232,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,27.3,40.0,896500
+233,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Jazz,27.3,40.0,940500
+234,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Jazz,18.2,40.0,928000
+235,Diesel,SUV,9,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass Trailhawk,16.3,60.0,2680000
+236,Diesel,SUV,9,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass Trailhawk,16.3,60.0,2760000
+237,Diesel,SUV,5,7.0,"Heater, Fully automatic climate control","Driver curtain airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",None,Isuzu Mu-X,13.8,76.0,2734834
+238,Diesel,SUV,5,7.0,"Heater, Fully automatic climate control","Drive side airbag, Driver curtain airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Isuzu Mu-X,13.8,76.0,2931534
+240,Diesel,SUV,7,7.0,2 Zone Climate Control,"Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag, Drive side airbag",Yes,Mahindra Alturas G4,12.05,70.0,3070150
+241,Diesel,SUV,8,5.0,3 Zone climate control,"Drive side airbag, Driver frontal airbag, Front passenger curtain airbag, Driver curtain airbag, Curtain airbags, Front passenger head airbag",Yes,Volkswagen Tiguan,17.06,71.0,2814500
+243,Petrol,SUV,7,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Driver curtain airbag, Rear passenger center airbag, Curtain airbags",Yes,Honda Cr-V,14.4,57.0,2827001
+244,Diesel,SUV,9,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Driver curtain airbag, Rear passenger curtain airbags, Curtain airbags",Yes,Honda Cr-V,19.5,57.0,3067001
+245,Diesel,SUV,9,7.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Driver curtain airbag, Rear passenger center airbag",Yes,Honda Cr-V,18.3,57.0,3277001
+246,Petrol,Sedan,7,5.0,3 Zone climate control,"Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb Sportline,13.7,66.0,2899599
+247,Diesel,Sedan,6,5.0,3 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Drive side airbag",Yes,Skoda Superb Sportline,18.19,66.0,3149599
+248,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags",None,Audi A3,20.38,50.0,3021200
+249,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags",Yes,Audi A3,20.38,50.0,3221200
+250,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Driver head airbag, Front passenger head airbag, Front passenger side airbag, Drive side airbag, Driver knee airbag, Rear passenger head airbags",None,Audi A3,19.2,50.0,2920750
+251,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Driver head airbag, Front passenger head airbag, Front passenger side airbag, Drive side airbag, Driver knee airbag, Rear passenger head airbags",None,Audi A3,19.2,50.0,3120750
+259,Diesel,SUV,6,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Rear passenger side airbags",Yes,Skoda Kodiaq,18.19,66.0,3299599
+260,Diesel,SUV,6,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Rear passenger side airbags",Yes,Skoda Kodiaq,18.19,66.0,3678599
+261,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Skoda Kodiaq,18.19,66.0,3299599
+262,Petrol,Coupe,6,2.0,Manual Air conditioning with cooling and heating,None,None,Dc Avanti,10.0,60.0,3407407
+263,Diesel,SUV,7,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Audi Q3,15.73,64.0,3677200
+264,Diesel,SUV,7,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Audi Q3,15.73,64.0,3992200
+265,Diesel,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Audi Q3,15.73,64.0,4361000
+266,Petrol,SUV,7,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Drive side airbag",Yes,Audi Q3,16.9,64.0,3496750
+267,Petrol,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mini Cooper 5 Door,21.15,44.0,3600000
+268,Petrol,Convertible,6,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mini Convertible,14.59,44.0,3830000
+275,Petrol,"Sports, Hatchback",8,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mini John Cooper Works,16.47,44.0,4350000
+276,Petrol,Sedan,8,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Jaguar Xe,11.0,61.0,4498000
+277,Diesel,Sedan,8,4.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Jaguar Xe,11.0,56.0,4498000
+278,Diesel,Sedan,8,4.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Jaguar Xe,11.0,56.0,4633000
+279,Petrol,Sedan,8,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Jaguar Xe,11.0,61.0,4633000
+280,Petrol,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Jaguar Xf,13.12,74.0,5436329
+281,Petrol,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Jaguar Xf,13.12,82.0,6073446
+282,Diesel,Sedan,8,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Jaguar Xf,19.33,83.0,6138811
+283,Diesel,Sedan,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Jaguar Xf,19.33,66.0,5506622
+284,Diesel,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Jaguar Xf,19.33,66.0,4977080
+285,Petrol,Convertible,7,4.0,2 Zone Climate Control,"Driver frontal airbag, Driver head airbag, Front passenger frontal airbag, Front passenger head airbag, Front passenger side airbag, Drive side airbag, Driver knee airbag",Yes,Audi A3 Cabriolet,19.2,50.0,5038000
+286,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Audi A6,14.11,73.0,5442200
+287,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Audi A6,14.11,73.0,5942200
+288,Diesel,SUV,8,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",None,Bmw X3,18.56,67.0,5930000
+289,Petrol,SUV,8,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",None,Bmw X3,18.56,67.0,5880000
+290,Diesel,SUV,8,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",None,Bmw X3,18.56,67.0,5600000
+294,Petrol,Sedan,7,5.0,3 Zone climate control,"Rear passenger side airbags, Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Audi S5,13.57,58.0,7243000
+298,Petrol,"Sedan, Coupe",6,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Driver knee airbag, Drive side airbag, Driver curtain airbag",Yes,Ford Mustang,13.0,60.9,7462000
+301,Petrol,SUV,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Jeep Grand Cherokee,12.8,93.5,11400000
+312,Diesel,SUV,5,7.0,3 Zone climate control,"Curtain airbags, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Toyota Land Cruiser Prado,11.13,87.0,9630000
+314,Petrol,Coupe,7,4.0,4 Zone climate control,"Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Audi Rs5,10.8,58.0,11141200
+315,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 7-Series,17.66,78.0,12290000
+316,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 7-Series,17.66,78.0,13200000
+317,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 7-Series,17.66,78.0,13510000
+318,Petrol,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 7-Series,11.86,78.0,13510000
+320,Petrol,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 7-Series,7.96,78.0,24250000
+325,Diesel,SUV,6,4.0,4 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Maserati Levante,7.9,80.0,14512054
+326,Diesel,SUV,6,4.0,4 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Maserati Levante,7.9,80.0,14863774
+327,Diesel,SUV,6,4.0,4 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Maserati Levante,7.9,80.0,15383399
+331,Petrol,Coupe,6,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Maserati Granturismo,10.0,86.0,17229579
+332,Diesel,Sports,6,4.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Maserati Quattroporte,7.9,70.0,17900000
+336,Petrol,Sedan,7,4.0,"Fully automatic climate control, 4 Zone climate control","Front passenger knee airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Porsche Panamera,10.63,90.0,21263000
+337,Petrol,Sedan,7,4.0,"Fully automatic climate control, 4 Zone climate control","Front passenger knee airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Porsche Panamera,10.63,90.0,22613000
+338,Petrol,Sedan,7,4.0,"Fully automatic climate control, 4 Zone climate control","Front passenger knee airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Porsche Panamera,10.63,90.0,21747000
+339,Diesel,SUV,6,7.0,Fully automatic climate control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Lexus Lx 450D,18.0,93.0,23290000
+341,Petrol,Coupe,7,2.0,Fully automatic climate control,"Driver curtain airbag, Driver frontal airbag, Front passenger frontal airbag, Driver head airbag, Front passenger side airbag, Front passenger head airbag, Drive side airbag, Front passenger curtain airbag",Yes,Audi R8,6.71,75.0,27245000
+343,Petrol,Coupe,8,4.0,Fully automatic climate control,"Rear passenger side airbags, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bentley Continental Gt,8.6,90.0,33791059
+344,Petrol,Convertible,7,2.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Ferrari Portofino,9.0,92.0,35000000
+345,Petrol,SUV,8,5.0,4 Zone climate control,"Rear passenger side airbags, Driver head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bentley Bentayga,19.0,85.0,45941557
+346,Petrol,SUV,8,5.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Bentley Bentayga,8.77,85.0,37542069
+348,Petrol,Coupe,7,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Ferrari 458 Speciale,9.0,86.0,42531500
+352,Petrol,Sedan,8,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Bentley Mulsanne,9.5,90.0,52571294
+359,Petrol,Hatchback,5,5.0,None,None,None,Maruti Suzuki Alto,22.05,35.0,294800
+360,Petrol,Hatchback,5,5.0,None,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Alto,22.05,35.0,299900
+361,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Alto,22.05,35.0,352900
+362,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto,22.05,35.0,357200
+363,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Alto,22.05,35.0,376100
+364,CNG + Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Alto,22.05,35.0,405570
+365,CNG + Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto,22.05,35.0,409190
+366,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Alto,22.05,35.0,389600
+367,Petrol,Hatchback,5,5.0,None,Driver frontal airbag,None,Maruti Suzuki S-Presso,21.4,27.0,370500
+368,Petrol,Hatchback,5,5.0,None,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.4,27.0,376500
+369,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki S-Presso,21.4,27.0,409000
+370,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.4,27.0,415000
+371,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki S-Presso,21.7,27.0,432500
+372,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.7,27.0,438500
+373,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki S-Presso,21.7,27.0,475500
+374,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.7,27.0,456000
+375,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.7,27.0,481500
+376,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Presso,21.7,27.0,499000
+377,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Celerio,23.1,35.0,426289
+378,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Celerio,23.1,35.0,465138
+379,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Celerio,23.1,35.0,508138
+380,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio,23.1,35.0,490924
+381,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio,23.1,35.0,531279
+382,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Celerio,31.79,35.0,530000
+383,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Celerio,23.1,35.0,533924
+384,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio,23.1,35.0,434659
+385,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio,23.1,35.0,472257
+386,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio,23.1,35.0,515257
+387,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Celerio,23.1,35.0,543279
+390,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Grand I10 Prime,19.77,43.0,460369
+391,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Hyundai Grand I10 Prime,19.77,43.0,477511
+392,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Hyundai Grand I10 Prime,25.0,43.0,545946
+393,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Hyundai Grand I10 Prime,25.0,43.0,528804
+394,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,18.15,35.0,488194
+395,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Mahindra Kuv100 Nxt,18.15,35.0,532184
+396,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,25.32,35.0,590798
+397,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Mahindra Kuv100 Nxt,25.32,35.0,619243
+398,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,25.32,35.0,667273
+399,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,18.15,35.0,579645
+400,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,18.15,35.0,631144
+401,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,25.32,35.0,754548
+402,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,18.15,35.0,693550
+403,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,25.32,35.0,787304
+404,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,18.15,35.0,701045
+405,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,25.32,35.0,794800
+406,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,18.15,35.0,573250
+407,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,18.15,35.0,631146
+408,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,18.15,35.0,687175
+409,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,25.32,35.0,660832
+410,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Kuv100 Nxt,25.32,35.0,748128
+411,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Kuv100 Nxt,25.32,35.0,780884
+412,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,25.32,35.0,550155
+413,Diesel,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,25.32,35.0,559741
+414,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,18.15,35.0,524312
+415,Petrol,Hatchback,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Kuv100 Nxt,18.15,35.0,542913
+416,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,519000
+417,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,619000
+418,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,666000
+419,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,678000
+420,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,725000
+421,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,20.4,37.0,758000
+422,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,25.2,37.0,599000
+423,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,25.2,37.0,698000
+424,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,25.2,37.0,745000
+425,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,25.2,37.0,757000
+426,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Swift,25.2,37.0,804000
+427,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Swift,25.2,37.0,838000
+428,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Swift,20.4,37.0,802000
+429,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Swift,25.2,37.0,884000
+430,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Altroz,18.0,37.0,529000
+435,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Altroz,25.0,37.0,699000
+440,Diesel,SUV,5,9.0,None,None,None,Icml Extreme,11.12,50.0,642478
+441,Diesel,SUV,5,9.0,None,None,None,Icml Extreme,11.12,50.0,589678
+442,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,689761
+443,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,788177
+444,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,2650777
+445,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,628072
+446,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,900967
+447,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,1465148
+448,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,552890
+449,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,927689
+450,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Icml Extreme,11.12,50.0,835275
+451,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Tigor,23.0,35.0,575000
+452,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tigor,23.0,35.0,610000
+453,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tigor,23.0,35.0,650000
+454,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tigor,23.0,35.0,699000
+455,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tigor,23.0,35.0,660000
+456,Petrol,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Tata Tigor,23.0,35.0,749000
+457,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Zest,17.6,44.0,582287
+458,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Zest,23.0,44.0,702946
+459,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Zest,17.6,44.0,653926
+460,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Zest,17.6,44.0,672641
+461,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Zest,17.6,44.0,732475
+462,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Zest,23.0,44.0,767317
+463,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Zest,20.65,44.0,793898
+464,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Zest,23.0,44.0,855362
+465,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Tata Zest,23.0,44.0,836320
+466,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Zest,23.0,44.0,989000
+467,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Zest,20.65,44.0,788797
+468,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Honda Amaze,19.0,35.0,763000
+469,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,27.4,35.0,705000
+470,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Honda Amaze,19.5,35.0,593000
+471,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,23.8,35.0,865000
+472,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,19.0,35.0,823000
+473,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,23.8,35.0,925000
+474,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,27.4,35.0,785000
+475,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,27.4,35.0,893000
+476,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,27.4,35.0,845000
+477,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,19.5,35.0,781000
+478,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,19.5,35.0,733000
+479,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Amaze,19.5,35.0,673000
+480,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,27.4,35.0,906000
+481,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,19.5,35.0,794000
+482,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,27.4,35.0,966000
+483,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,19.5,35.0,864000
+484,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,27.4,35.0,979300
+485,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,19.5,35.0,877300
+486,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,27.4,35.0,906300
+487,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Amaze,19.5,35.0,794300
+488,Petrol,SUV,5,8.0,None,None,None,Maruti Suzuki Gypsy,11.9,40.0,637343
+489,Petrol,SUV,5,8.0,None,None,None,Maruti Suzuki Gypsy,11.9,40.0,622730
+490,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,17.52,45.0,655000
+491,Petrol,SUV,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,18.27,45.0,826000
+493,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,18.27,45.0,959000
+494,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,18.27,45.0,974000
+495,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Curtain airbags",Yes,Hyundai Venue,18.27,45.0,1065000
+496,Petrol,SUV,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Venue,18.15,45.0,940000
+497,Petrol,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,18.15,45.0,1115500
+498,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,17.52,45.0,725000
+502,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Venue,23.7,45.0,1089000
+527,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Linea,15.7,45.0,715860
+528,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Linea,20.4,45.0,862175
+529,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Fiat Linea,20.4,45.0,932025
+530,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Fiat Linea,20.4,45.0,991434
+531,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Fiat Linea,15.7,45.0,997763
+532,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero Power Plus,16.5,60.0,886398
+533,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero Power Plus,16.5,60.0,851302
+534,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero Power Plus,16.5,60.0,785656
+535,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Mahindra Bolero Power Plus,16.5,60.0,749192
+536,Diesel,SUV,5,7.0,Air Conditioning with cooling only,None,None,Mahindra Bolero Power Plus,15.96,60.0,859497
+537,Diesel,SUV,5,9.0,None,None,None,Mahindra Bolero Power Plus,15.96,60.0,819117
+538,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Vitara Brezza,24.3,48.0,762742
+539,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,814742
+540,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,892243
+541,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,987743
+542,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,1003552
+543,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,1037742
+544,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,864742
+545,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,942243
+546,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Vitara Brezza,24.3,48.0,1059742
+547,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai I20 Active,17.19,40.0,774035
+548,Petrol,Hatchback,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Hyundai I20 Active,17.19,40.0,858536
+549,Petrol,Hatchback,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Hyundai I20 Active,17.19,40.0,882298
+550,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag",Yes,Hyundai I20 Active,21.19,40.0,993393
+551,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Ecosport,17.0,52.0,791000
+552,Petrol,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Ecosport,17.0,52.0,871000
+553,Petrol,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Ecosport,17.0,52.0,950000
+554,Petrol,SUV,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ford Ecosport,14.8,52.0,1130000
+555,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Ecosport,23.0,52.0,841000
+556,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Ecosport,23.0,52.0,921000
+557,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ford Ecosport,23.0,52.0,999900
+558,Diesel,SUV,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ford Ecosport,23.0,52.0,1090000
+559,Petrol,SUV,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ford Ecosport,23.0,52.0,999900
+560,Diesel,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",Yes,Ford Ecosport,23.0,52.0,1145000
+561,Petrol,SUV,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ford Ecosport,23.0,52.0,999900
+562,Diesel,SUV,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ford Ecosport,23.0,52.0,1090000
+563,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,13.87,50.0,799990
+564,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,13.87,50.0,919990
+565,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Duster,13.87,50.0,999990
+566,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,19.6,50.0,929990
+567,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,19.6,50.0,999990
+568,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,19.6,50.0,1119990
+569,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Duster,19.6,50.0,1209990
+570,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Duster,19.6,50.0,1249990
+571,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Duster,19.6,50.0,1249990
+572,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,17.7,45.0,999900
+573,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,23.9,45.0,1172544
+574,Diesel,Sedan,4,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Hyundai Verna,23.5,45.0,1301881
+575,Petrol,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags, Driver frontal airbag",Yes,Hyundai Verna,17.7,45.0,1172999
+576,Diesel,Sedan,4,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,17.1,45.0,1328545
+577,Petrol,Sedan,4,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Curtain airbags",None,Hyundai Verna,17.7,45.0,1287999
+578,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,19.1,45.0,933182
+579,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,19.1,45.0,817867
+580,Petrol,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags, Driver frontal airbag",Yes,Hyundai Verna,17.7,45.0,1178894
+581,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Curtain airbags",None,Hyundai Verna,17.7,45.0,1162875
+582,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Verna,17.1,45.0,1407871
+585,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Xuv300,17.0,42.0,830127
+586,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Xuv300,17.0,42.0,915128
+587,Petrol,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv300,17.0,42.0,1060129
+588,Petrol,SUV,6,5.0,2 Zone Climate Control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Mahindra Xuv300,17.0,42.0,1184129
+589,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Xuv300,20.0,42.0,869131
+590,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,950131
+591,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,1095129
+592,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,1214130
+593,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,1149800
+594,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,1269131
+595,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",Yes,Mahindra Xuv300,20.0,42.0,999000
+596,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,None,None,Renault Lodgy,21.04,50.0,863299
+597,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,None,None,Renault Lodgy,21.04,50.0,964199
+599,Diesel,MUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Lodgy,19.98,50.0,1211599
+600,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Renault Lodgy,21.04,50.0,1053899
+601,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Lodgy,21.04,50.0,1130099
+602,Diesel,MUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Renault Lodgy,21.04,50.0,964199
+603,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,16.09,55.0,876500
+604,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,16.09,55.0,999900
+605,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,16.09,55.0,999900
+606,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,18.19,55.0,1197500
+607,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,18.19,55.0,1449500
+608,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,20.64,55.0,958500
+609,Diesel,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",None,Volkswagen Vento,20.64,55.0,999900
+610,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,20.64,55.0,1210500
+611,Diesel,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,21.5,55.0,1336500
+612,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,20.64,55.0,1317500
+613,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,19.91,45.0,1449500
+614,Petrol,Hatchback,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Volkswagen Vento,17.21,45.0,1317500
+620,Petrol,SUV,7,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,15.4,42.0,952900
+621,Petrol,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,15.4,42.0,1052900
+622,Petrol,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,15.4,42.0,1167900
+623,Petrol,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Brv,15.4,42.0,1271900
+624,Petrol,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,16.0,42.0,1285900
+625,Diesel,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,21.9,42.0,1187900
+626,Diesel,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Brv,21.9,42.0,1273900
+627,Diesel,SUV,7,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Brv,21.9,42.0,1382900
+628,Diesel,SUV,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Thar,13.0,60.0,959860
+629,Diesel,SUV,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Thar,13.0,60.0,999148
+630,Diesel,SUV,5,6.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Thar,13.0,60.0,974860
+631,Diesel,SUV,6,7.0,None,None,None,Force Gurkha,17.0,63.0,999000
+632,Diesel,SUV,6,5.0,None,None,None,Force Gurkha,17.0,63.0,1075000
+635,Diesel,SUV,6,7.0,None,None,None,Force Gurkha,17.0,63.0,975000
+636,Diesel,SUV,6,5.0,None,None,None,Force Gurkha,17.0,63.0,1225000
+637,Petrol,MPV,5,6.0,Fully automatic climate control,Driver frontal airbag,None,Maruti Suzuki Xl6,19.01,45.0,984689
+638,Petrol,MPV,5,6.0,Fully automatic climate control,Driver frontal airbag,None,Maruti Suzuki Xl6,19.01,45.0,1041189
+639,Petrol,MPV,5,6.0,Fully automatic climate control,Driver frontal airbag,None,Maruti Suzuki Xl6,17.01,45.0,1094689
+640,Petrol,MPV,5,6.0,Fully automatic climate control,Driver frontal airbag,None,Maruti Suzuki Xl6,17.01,45.0,1151189
+642,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300 Plus,18.49,60.0,992748
+643,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300 Plus,18.49,60.0,1029650
+644,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300 Plus,18.49,60.0,1142157
+645,Diesel,MPV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Marazzo,17.3,45.0,999900
+646,Diesel,MPV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Marazzo,17.3,45.0,1156471
+647,Diesel,MPV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Marazzo,17.3,45.0,1308592
+648,Diesel,MPV,6,7.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Mahindra Marazzo,17.3,45.0,1468440
+649,Diesel,MPV,6,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Marazzo,17.3,45.0,999900
+650,Diesel,MPV,6,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Marazzo,17.3,45.0,1164569
+651,Diesel,MPV,6,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Marazzo,17.3,45.0,1316690
+652,Diesel,MPV,6,8.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Mahindra Marazzo,17.3,45.0,1476538
+653,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Scorpio,15.4,60.0,999994
+654,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Scorpio,10.22,80.0,1236258
+655,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Scorpio,13.5,80.0,1123158
+656,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Scorpio,15.4,60.0,1220030
+657,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Scorpio,15.4,60.0,1330006
+658,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Scorpio,15.4,60.0,1360668
+659,Diesel,SUV,5,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Scorpio,15.4,60.0,1540081
+660,Diesel,SUV,5,9.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Scorpio,15.4,60.0,1663054
+661,Diesel,SUV,6,9.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Scorpio,15.4,60.0,1423710
+662,Diesel,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Monte Carlo,21.72,55.0,1425599
+663,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Monte Carlo,14.84,55.0,1269599
+664,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Monte Carlo,21.13,55.0,1299599
+665,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Monte Carlo,15.41,55.0,1139599
+666,Petrol,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,13.85,70.0,1610180
+667,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,15.1,70.0,1418313
+668,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1539488
+669,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,16.0,70.0,1588943
+670,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1710118
+671,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mahindra Xuv500,16.0,70.0,1716319
+672,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1837586
+673,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mahindra Xuv500,16.0,70.0,1741319
+674,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1862586
+675,Petrol,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,13.85,70.0,1610180
+676,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,15.1,70.0,1418313
+677,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1539488
+678,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Xuv500,16.0,70.0,1588943
+679,Diesel,SUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1710118
+680,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mahindra Xuv500,16.0,70.0,1716319
+681,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1837586
+682,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mahindra Xuv500,16.0,70.0,1741319
+683,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1862586
+684,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mahindra Xuv500,16.0,70.0,1852488
+685,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Mahindra Xuv500,16.0,70.0,1973664
+686,Diesel,SUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Xuv500,16.0,70.0,1230924
+690,Diesel,SUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Hexa,17.6,60.0,1639374
+691,Diesel,SUV,6,6.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Tata Hexa,17.6,60.0,1929417
+692,Diesel,SUV,6,6.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Tata Hexa,17.6,60.0,1912593
+694,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Hexa,17.6,60.0,1371864
+695,Diesel,SUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Hexa,17.6,60.0,1531377
+697,Diesel,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Innova Crysta,15.4,55.0,1605000
+698,Diesel,MUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Innova Crysta,15.0,55.0,1927000
+699,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Innova Crysta,15.4,55.0,1610000
+700,Diesel,MUV,5,8.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Innova Crysta,15.4,55.0,1932000
+701,Diesel,MUV,5,7.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Toyota Innova Crysta,15.1,55.0,2113000
+702,Petrol,MUV,6,8.0,Air Conditioning with cooling only,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag, Driver knee airbag",None,Toyota Innova Crysta,10.83,55.0,1620000
+703,Petrol,MUV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Curtain airbags",None,Toyota Innova Crysta,10.83,55.0,1615000
+704,Petrol,MUV,6,7.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Toyota Innova Crysta,10.75,55.0,2103000
+705,Petrol,MUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Innova Crysta,11.25,55.0,1807000
+706,Petrol,MUV,6,7.0,Manual Air conditioning with cooling and heating,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Curtain airbags",None,Toyota Innova Crysta,11.25,55.0,1493000
+707,Petrol,MUV,6,8.0,Air Conditioning with cooling only,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag",None,Toyota Innova Crysta,11.25,55.0,1498000
+708,Diesel,MUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Innova Crysta,15.0,55.0,2097000
+709,Petrol,MUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Innova Crysta,11.25,55.0,1892000
+710,Petrol,MUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag, Drive side airbag",Yes,Toyota Innova Crysta,10.75,55.0,2171000
+711,Diesel,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Innova Crysta,15.4,55.0,1592000
+712,Diesel,MUV,5,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Innova Crysta,15.1,55.0,1587000
+718,Diesel,SUV,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Jeep Compass,17.1,60.0,1888000
+723,Petrol,SUV,7,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass,16.3,60.0,2167000
+724,Diesel,SUV,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass,17.1,60.0,2133000
+725,Diesel,SUV,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass,16.3,60.0,2311000
+729,Petrol,SUV,7,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass,16.3,60.0,2070000
+732,Diesel,SUV,9,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Jeep Compass,17.1,60.0,2499000
+733,Diesel,SUV,9,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Jeep Compass,17.1,60.0,2196000
+734,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Corolla Altis,16.7,55.0,1645000
+735,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Corolla Altis,16.7,55.0,1806000
+736,Petrol,Sedan,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Corolla Altis,16.7,55.0,1882000
+737,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver knee airbag, Driver frontal airbag, Front passenger frontal airbag",None,Toyota Corolla Altis,21.0,43.0,1936000
+738,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Corolla Altis,21.0,43.0,1771000
+739,Petrol,Sedan,6,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Toyota Corolla Altis,16.7,55.0,2019000
+740,Petrol,Sedan,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Honda Civic,16.5,47.0,1793900
+741,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag",Yes,Honda Civic,16.5,47.0,1944900
+742,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Honda Civic,16.8,47.0,2124900
+743,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger curtain airbag, Front passenger frontal airbag, Driver curtain airbag",Yes,Honda Civic,26.8,47.0,2054900
+744,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",Yes,Honda Civic,26.8,47.0,2234900
+752,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb,14.12,66.0,2599599
+753,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb,14.67,66.0,2779599
+754,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb,13.7,66.0,3099599
+755,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb,18.19,66.0,3349599
+756,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Rear passenger side airbags",Yes,Skoda Superb,18.19,66.0,3029599
+757,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Skoda Superb,14.67,66.0,2599599
+758,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Rear passenger side airbags",Yes,Skoda Superb,18.19,66.0,2849599
+759,Diesel,Hatchback,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger curtain airbag, Front passenger side airbag, Driver curtain airbag, Rear passenger curtain airbags",Yes,Volvo V40,16.81,60.0,2769000
+760,Diesel,Hatchback,6,5.0,2 Zone Climate Control,"Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Driver head airbag",Yes,Volvo V40,16.81,60.0,3191000
+761,Diesel,SUV,5,7.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Drive side airbag, Curtain airbags, Driver frontal airbag",Yes,Toyota Fortuner,12.9,80.0,3205000
+762,Diesel,SUV,5,7.0,Fully automatic climate control,"Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Driver frontal airbag, Drive side airbag, Front passenger frontal airbag",Yes,Toyota Fortuner,14.24,80.0,3019000
+763,Diesel,SUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Toyota Fortuner,14.24,80.0,3216000
+764,Diesel,SUV,5,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Rear passenger side airbags, Drive side airbag",Yes,Toyota Fortuner,12.9,80.0,3395000
+765,Petrol,SUV,5,7.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Toyota Fortuner,10.26,80.0,2977000
+766,Petrol,SUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Toyota Fortuner,10.01,80.0,2818000
+767,Diesel,SUV,6,7.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Drive side airbag",Yes,Toyota Fortuner,12.9,80.0,3420000
+768,Diesel,SUV,6,7.0,"Fully automatic climate control, 2 Zone Climate Control","Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Ford Endeavour,10.91,80.0,3470000
+769,Diesel,SUV,6,7.0,"Fully automatic climate control, 2 Zone Climate Control","Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Ford Endeavour,12.62,80.0,3233000
+770,Diesel,SUV,6,7.0,"Fully automatic climate control, 2 Zone Climate Control","Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Ford Endeavour,12.62,80.0,2920000
+771,Diesel,Hatchback,6,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Mini Cooper 3 Door,21.15,44.0,2990000
+772,Petrol,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mini Cooper 3 Door,15.75,44.0,3420000
+773,Diesel,SUV,7,7.0,"Fully automatic climate control, 3 Zone climate control","Drive side airbag, Front passenger knee airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag, Driver head airbag, Front passenger head airbag",Yes,Skoda Kodiaq Scout,16.25,63.0,3399000
+774,Diesel,"Crossover, SUV",8,5.0,2 Zone Climate Control,"Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver head airbag",None,Bmw X1,20.68,51.0,3520000
+775,Diesel,"SUV, Crossover",8,5.0,2 Zone Climate Control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw X1,20.68,51.0,3930000
+776,Diesel,"SUV, Crossover",8,5.0,2 Zone Climate Control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw X1,20.68,51.0,4570000
+777,Diesel,SUV,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver head airbag, Front passenger head airbag, Drive side airbag",Yes,Bmw X1,17.05,61.0,4240000
+778,Petrol,"Crossover, SUV",7,5.0,2 Zone Climate Control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw X1,16.3,51.0,3830000
+780,Diesel,Sedan,8,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Volvo S60,21.7,67.5,3850500
+781,Diesel,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Bmw 3-Series,19.62,40.0,4140000
+782,Diesel,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Bmw 3-Series,19.62,40.0,4690000
+783,Petrol,Sedan,8,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Bmw 3-Series,16.13,59.0,4790000
+784,Diesel,"Sedan, Crossover",6,4.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Volvo S60 Cross Country,19.6,67.0,4426500
+785,Diesel,SUV,7,5.0,3 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Drive side airbag",Yes,Audi Q5,16.9,64.0,5021200
+786,Diesel,SUV,7,5.0,3 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Drive side airbag",Yes,Audi Q5,15.73,64.0,5621200
+787,Petrol,SUV,7,5.0,Fully automatic climate control,"Rear passenger side airbags, Driver head airbag, Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Audi Q5,12.44,70.0,5021200
+788,Petrol,SUV,7,5.0,Fully automatic climate control,"Rear passenger side airbags, Driver head airbag, Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Audi Q5,12.44,70.0,5621200
+801,Diesel,SUV,6,5.0,Fully automatic climate control,"Rear passenger side airbags, Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Volvo Xc60,18.8,70.0,5990000
+802,Diesel,SUV,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Bmw X4,16.4,60.0,6060000
+803,Diesel,SUV,8,5.0,2 Zone Climate Control,"Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Bmw X4,16.4,68.0,6590000
+804,Petrol,SUV,8,5.0,Fully automatic climate control,"Rear passenger side airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw X4,13.32,68.0,6350000
+805,Petrol,SUV,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Jeep Wrangler,8.4,85.0,6394000
+807,Petrol,"Sports, Convertible",8,2.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Bmw Z4 Roadster,7.6,52.0,6490000
+808,Petrol,"Sports, Convertible",8,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Curtain airbags",Yes,Bmw Z4 Roadster,7.6,52.0,7890000
+812,Diesel,SUV,8,7.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Audi Q7,14.75,75.0,7221500
+813,Diesel,SUV,8,7.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Audi Q7,14.75,75.0,8021500
+814,Petrol,SUV,8,7.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Audi Q7,11.68,75.0,6921500
+816,Diesel,SUV,8,7.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Audi Q7,14.75,75.0,8111500
+820,Petrol,SUV,9,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Rear passenger head airbags",Yes,Land Rover Rover Range Velar,12.63,65.0,7246802
+822,Diesel,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Volvo Xc90,17.2,68.0,8790000
+823,Diesel,SUV,8,7.0,4 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Volvo Xc90,17.2,68.0,8090000
+825,Hybrid,SUV,8,7.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Volvo Xc90,17.2,68.0,9665000
+826,Diesel,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Volvo Xc90,17.2,68.0,8491500
+836,Diesel,SUV,8,7.0,3 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger pelvic airbag, Driver pelvic airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Land Rover Rover Range Sport,11.5,105.0,14908985
+837,Diesel,Sedan,8,5.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Jaguar Xj,12.9,82.0,9738609
+838,Diesel,Sedan,8,5.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Jaguar Xj,12.9,83.0,10725145
+839,Diesel,Sedan,8,5.0,4 Zone climate control,"Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Jaguar Xj,12.9,82.0,11129599
+840,Hybrid,SUV,8,5.0,"2 Zone Climate Control, Fully automatic climate control","Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Porsche Cayenne,3.4,75.0,15806000
+841,Petrol,SUV,8,5.0,"Fully automatic climate control, 2 Zone Climate Control","Curtain airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Porsche Cayenne,16.2,90.0,19210000
+846,Diesel,SUV,6,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Curtain airbags, Drive side airbag, Front passenger knee airbag",Yes,Toyota Land Cruiser,9.0,93.0,14699000
+847,Petrol,"Sedan, Coupe",8,4.0,4 Zone climate control,"Driver frontal airbag, Driver head airbag, Front passenger frontal airbag, Front passenger head airbag, Front passenger side airbag, Drive side airbag, Rear passenger head airbags",Yes,Audi Rs7,9.8,75.0,17072000
+848,Petrol,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Land Rover Rover Range,9.6,105.0,26037526
+849,Petrol,SUV,8,5.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger pelvic airbag, Driver frontal airbag, Driver pelvic airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Land Rover Rover Range,9.6,105.0,32522000
+850,Petrol,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger pelvic airbag, Driver pelvic airbag",Yes,Land Rover Rover Range,11.6,85.0,19527130
+857,Petrol,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger pelvic airbag, Driver pelvic airbag",Yes,Land Rover Rover Range,11.6,85.0,21398758
+858,Petrol,Convertible,6,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Rear passenger side airbags, Drive side airbag",Yes,Maserati Grancabrio,9.8,75.0,19865675
+863,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,10.6,90.0,37133704
+864,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,11.24,90.0,32452486
+865,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,8.0,90.0,35150732
+866,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,10.6,90.0,37614126
+867,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,11.24,90.0,35535000
+868,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,10.6,90.0,40742932
+869,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,10.6,90.0,37300000
+871,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Lamborghini Huracan,10.6,90.0,32200000
+872,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Ferrari 488 Gtb,5.5,78.0,36761413
+873,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Ferrari 488 Gtb,5.5,78.0,39319552
+874,Petrol,Coupe,7,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ferrari Gtc4 Lusso,5.5,91.0,42000000
+875,Petrol,Coupe,7,4.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Ferrari Gtc4 Lusso,5.5,91.0,52000000
+876,Petrol,Convertible,7,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Lamborghini Aventador,5.0,90.0,47893943
+877,Petrol,Convertible,7,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",Yes,Lamborghini Aventador,8.8,90.0,53210327
+878,Petrol,Coupe,7,2.0,Fully automatic climate control,"Drive side airbag, Front passenger frontal airbag, Front passenger side airbag, Driver frontal airbag",Yes,Lamborghini Aventador,5.0,90.0,47467700
+881,Petrol,MPV,4,5.0,None,None,None,Maruti Suzuki Omni,16.8,35.0,282778
+882,Petrol,MPV,4,8.0,None,None,None,Maruti Suzuki Omni,16.8,36.0,284485
+892,Petrol,Hatchback,5,5.0,Air Conditioning with cooling only,None,None,Fiat Punto Evo Pure,15.0,45.0,482330
+893,Diesel,Hatchback,5,5.0,Air Conditioning with cooling only,Driver frontal airbag,None,Fiat Punto Evo Pure,20.0,45.0,575947
+894,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Figo,20.4,42.0,523000
+895,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Figo,25.5,40.0,623000
+896,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Ford Figo,20.4,42.0,599900
+897,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Ford Figo,25.5,40.0,699900
+898,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Ford Figo,20.4,42.0,664900
+899,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags, Drive side airbag",Yes,Ford Figo,25.5,40.0,764900
+900,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,27.39,37.0,746621
+901,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Baleno,27.39,37.0,868221
+902,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,27.39,37.0,668611
+903,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,27.39,37.0,807921
+904,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Baleno,21.4,37.0,758212
+905,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Baleno,21.4,37.0,890212
+906,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.4,37.0,636612
+907,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.04,37.0,768612
+908,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.4,37.0,558602
+909,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.4,37.0,697912
+910,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.4,37.0,733412
+911,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.4,37.0,789912
+912,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Baleno,21.04,37.0,829912
+913,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Hyundai Grand I10,18.9,43.0,586428
+914,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Grand I10,19.77,43.0,620637
+915,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10,17.49,43.0,652328
+916,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Grand I10,17.49,43.0,705538
+917,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Grand I10,19.77,43.0,640537
+918,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10,18.9,43.0,653452
+919,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Linea Classic,19.5,45.0,751203
+920,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Linea Classic,14.9,45.0,646336
+921,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Fiat Linea Classic,19.5,45.0,808558
+922,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Nissan Sunny,16.95,41.0,707025
+923,Petrol,Sedan,5,5.0,Fully automatic climate control,Driver frontal airbag,None,Nissan Sunny,16.95,41.0,836461
+924,Diesel,Sedan,5,5.0,Fully automatic climate control,Driver frontal airbag,None,Nissan Sunny,22.71,41.0,912534
+925,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Sunny,22.71,41.0,993997
+926,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Nissan Sunny,22.71,41.0,860997
+927,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Sunny,17.97,41.0,993997
+928,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Sunny,22.71,41.0,877285
+929,Petrol,MPV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ertiga,19.34,45.0,759000
+930,Petrol,MPV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ertiga,19.34,45.0,917000
+931,Petrol,MUV,4,7.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Maruti Suzuki Ertiga,18.69,45.0,936000
+932,Petrol,MUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ertiga,19.34,45.0,971000
+933,Petrol,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Maruti Suzuki Ertiga,19.34,45.0,834000
+934,Petrol,MPV,4,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ertiga,18.69,45.0,1013000
+935,Diesel,MPV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ertiga,24.2,45.0,986689
+936,Diesel,MPV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ertiga,24.2,45.0,1069689
+937,Diesel,MPV,6,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ertiga,24.2,45.0,1120689
+938,CNG + Petrol,MUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ertiga,19.34,45.0,887689
+939,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Baleno Rs,21.4,37.0,788913
+940,Diesel,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Wr-V,25.5,40.0,1035000
+941,Petrol,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Wr-V,17.5,40.0,925000
+942,Diesel,SUV,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Wr-V,25.5,40.0,925000
+943,Petrol,SUV,7,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",None,Honda Wr-V,17.5,40.0,815000
+944,Diesel,SUV,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Honda Wr-V,25.5,40.0,916050
+945,Petrol,SUV,7,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",None,Honda Wr-V,17.5,40.0,808050
+946,Diesel,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Wr-V,25.5,40.0,1048050
+947,Petrol,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Wr-V,17.5,40.0,935050
+948,Diesel,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda Wr-V,25.5,40.0,995000
+949,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Tuv300,18.49,60.0,854328
+950,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Tuv300,18.49,60.0,914328
+951,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Tuv300,18.49,60.0,976592
+952,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300,18.49,60.0,999614
+953,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300,18.49,60.0,1031943
+954,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300,18.49,60.0,1022930
+955,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mahindra Tuv300,18.49,60.0,1055259
+956,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Cross,23.65,48.0,880689
+957,Diesel,Crossover,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki S-Cross,23.65,48.0,992689
+958,Diesel,Crossover,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki S-Cross,23.65,48.0,1043689
+959,Diesel,Crossover,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki S-Cross,23.65,48.0,1143689
+960,Petrol,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Captur,13.86,50.0,949999
+961,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Captur,20.37,50.0,1049999
+962,Diesel,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Renault Captur,20.37,50.0,1299999
+963,Petrol,SUV,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Renault Captur,13.86,50.0,1199999
+964,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Xylo,13.9,55.0,963037
+965,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Xylo,13.9,55.0,1004487
+966,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Xylo,14.02,55.0,1031951
+967,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Xylo,14.02,55.0,1066139
+968,Diesel,SUV,5,8.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Xylo,14.02,55.0,1228335
+969,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Kia Seltos,16.8,60.0,989000
+970,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Kia Seltos,16.8,60.0,1029000
+971,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Kia Seltos,16.8,60.0,1149000
+972,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Kia Seltos,16.8,60.0,1309000
+973,Petrol,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Kia Seltos,16.8,60.0,1409000
+974,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Kia Seltos,20.0,60.0,1034000
+975,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Kia Seltos,20.0,60.0,1154000
+976,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Kia Seltos,20.0,60.0,1254000
+977,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Kia Seltos,20.0,60.0,1354000
+978,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Kia Seltos,20.0,60.0,1534000
+979,Diesel,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Kia Seltos,20.0,60.0,1634000
+980,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Kia Seltos,16.1,50.0,1379000
+981,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Kia Seltos,16.1,50.0,1529000
+982,Petrol,SUV,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Kia Seltos,16.5,50.0,1629000
+983,Petrol,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Kia Seltos,16.1,50.0,1629000
+984,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Kia Seltos,20.0,60.0,1414000
+985,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Terrano,20.45,50.0,999900
+986,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Nissan Terrano,19.01,50.0,1464900
+987,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Terrano,13.24,50.0,999900
+988,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Terrano,20.45,50.0,1235700
+989,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Terrano,19.01,50.0,1419900
+990,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Nissan Terrano,20.45,50.0,1235700
+991,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Tata Safari Storme,14.0,63.0,1109005
+992,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Tata Safari Storme,14.0,63.0,1335158
+993,Diesel,SUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Safari Storme,14.1,63.0,1479574
+994,Diesel,SUV,6,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Safari Storme,14.1,63.0,1643829
+1009,Petrol,Sedan,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",None,Hyundai Elantra,14.6,50.0,1589000
+1010,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Driver curtain airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag",Yes,Hyundai Elantra,14.6,50.0,1849000
+1011,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Hyundai Elantra,14.6,50.0,1949000
+1012,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag",Yes,Hyundai Elantra,14.6,50.0,2039000
+1013,Diesel,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Tucson,18.42,62.0,2079717
+1014,Petrol,SUV,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Tucson,13.03,62.0,1876656
+1015,Diesel,SUV,5,5.0,2 Zone Climate Control,"Curtain airbags, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Hyundai Tucson,16.38,62.0,2364354
+1016,Petrol,SUV,5,5.0,2 Zone Climate Control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag",Yes,Hyundai Tucson,12.95,62.0,2187384
+1017,Diesel,SUV,5,5.0,2 Zone Climate Control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Hyundai Tucson,16.38,62.0,2697417
+1018,Petrol,SUV,5,5.0,2 Zone Climate Control,"Front passenger side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Drive side airbag",Yes,Hyundai Tucson,12.95,62.0,2373522
+1019,Petrol,SUV,5,5.0,2 Zone Climate Control,"Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Curtain airbags, Driver frontal airbag",Yes,Hyundai Tucson,12.95,62.0,2246749
+1020,Diesel,SUV,5,5.0,2 Zone Climate Control,"Front passenger side airbag, Curtain airbags, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Tucson,16.38,62.0,2423720
+1021,Diesel,Sedan,7,5.0,3 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Front passenger curtain airbag",None,Volkswagen Passat,17.42,55.0,3021500
+1022,Diesel,Sedan,7,5.0,3 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags",None,Volkswagen Passat,17.42,66.0,3321500
+1023,Diesel,Sedan,7,5.0,3 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Front passenger curtain airbag",None,Volkswagen Passat,17.42,55.0,2599000
+1024,Diesel,Sedan,7,5.0,3 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags",None,Volkswagen Passat,17.42,66.0,2899000
+1027,Diesel,Hatchback,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Volvo V40 Cross Country,16.8,60.0,3283000
+1028,Petrol,Hatchback,6,5.0,2 Zone Climate Control,"Front passenger frontal airbag, Rear passenger side airbags, Driver knee airbag, Curtain airbags, Driver frontal airbag",Yes,Volvo V40 Cross Country,16.0,50.0,2962000
+1029,Petrol,Hatchback,8,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags",Yes,Mini Countryman,14.41,47.0,3490000
+1030,Diesel,Hatchback,8,5.0,2 Zone Climate Control,"Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Drive side airbag, Driver frontal airbag",Yes,Mini Countryman,19.19,47.0,3740000
+1031,Petrol,Hatchback,8,5.0,2 Zone Climate Control,"Front passenger side airbag, Drive side airbag, Rear passenger side airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Mini Countryman,14.41,47.0,4140000
+1032,Petrol,Hatchback,8,5.0,2 Zone Climate Control,"Rear passenger side airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Mini Countryman,14.41,47.0,4240000
+1039,Hybrid,Sedan,5,5.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag, Curtain airbags, Driver frontal airbag",Yes,Toyota Prius,23.9,43.0,4509000
+1045,Diesel,SUV,8,5.0,4 Zone climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Volvo V90 Cross Country,17.2,60.0,6531000
+1046,Diesel,Convertible,7,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver head airbag, Front passenger head airbag",Yes,Audi A5 Cabriolet,17.2,58.0,6948200
+1050,Petrol,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag, Driver head airbag, Front passenger head airbag, Front passenger knee airbag, Rear passenger head airbags",Yes,Bmw X7,13.38,80.0,10490000
+1051,Diesel,SUV,8,7.0,4 Zone climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver knee airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger knee airbag, Rear passenger head airbags",Yes,Bmw X7,13.38,80.0,10250000
+1052,Petrol,Coupe,7,4.0,2 Zone Climate Control,"Driver head airbag, Driver frontal airbag, Front passenger head airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Front passenger knee airbag, Driver knee airbag, Rear passenger head airbags",Yes,Bmw M4,10.75,60.0,13590000
+1053,Petrol,Coupe,8,4.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Rear passenger side airbags",Yes,Porsche 911,8.9,64.0,17420000
+1054,Petrol,Convertible,8,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Rear passenger side airbags, Driver head airbag",Yes,Porsche 911,9.1,64.0,18844000
+1055,Petrol,Coupe,6,4.0,Fully automatic climate control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Nissan Gtr,9.0,74.0,21240272
+1056,Petrol,Coupe,8,2.0,"Fully automatic climate control, 2 Zone Climate Control","Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Aston Martin Vantage,8.0,73.0,29500000
+1057,Petrol,Sedan,8,4.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag",Yes,Aston Martin Rapide,12.9,90.5,38845823
+1058,Petrol,Coupe,7,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Ferrari 812 Superfast,14.9,92.0,52000000
+1059,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,None,None,Maruti Suzuki Alto 800 Tour,23.7,35.0,354235
+1060,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki Alto 800 Tour,24.7,35.0,356559
+1061,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,675090
+1062,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,504990
+1063,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,589610
+1064,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,642610
+1065,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,643350
+1066,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,703350
+1067,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,673350
+1068,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Grand I10 Nios,20.7,37.0,718950
+1069,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Grand I10 Nios,20.7,37.0,790350
+1070,Diesel,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Grand I10 Nios,20.7,37.0,804450
+1071,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Xcent,20.14,43.0,643769
+1072,Petrol,Sedan,4,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Xcent,17.36,43.0,733734
+1073,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Xcent,20.14,43.0,705546
+1077,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Xcent,25.4,43.0,798558
+1078,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Xcent,25.4,43.0,875358
+1080,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra,19.34,41.0,662880
+1081,Petrol,Hatchback,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra,19.34,41.0,781686
+1082,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Micra,23.08,41.0,743504
+1083,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger side airbag",None,Nissan Micra,23.08,41.0,812964
+1084,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero,15.96,60.0,942263
+1085,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero,15.96,60.0,917055
+1086,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero,15.96,60.0,860720
+1087,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Bolero,15.96,60.0,815883
+1088,Diesel,SUV,5,7.0,None,None,None,Mahindra Bolero,15.96,60.0,773678
+1089,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ciaz,28.09,43.0,1102689
+1090,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,28.09,43.0,919689
+1091,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,28.09,43.0,980689
+1092,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,28.09,43.0,1062689
+1093,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,21.56,43.0,819689
+1094,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,21.56,43.0,881689
+1095,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,21.56,43.0,958689
+1096,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ciaz,21.56,43.0,997689
+1097,Petrol,Sedan,4,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,20.28,43.0,980689
+1098,Petrol,Sedan,4,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,20.28,43.0,1058688
+1099,Petrol,Sedan,4,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ciaz,20.28,43.0,1098689
+1100,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Maruti Suzuki Ciaz,26.82,43.0,1138189
+1101,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,26.32,43.0,997689
+1102,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki Ciaz,26.32,43.0,1109189
+1103,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,15.41,55.0,998599
+1104,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.13,55.0,1006139
+1105,Petrol,Sedan,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,15.41,55.0,881916
+1106,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.13,55.0,1129599
+1107,Diesel,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.72,55.0,1249599
+1108,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,14.84,55.0,1243599
+1109,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.72,55.0,1399599
+1110,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.13,55.0,1273599
+1111,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,15.41,55.0,1115599
+1112,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,14.84,55.0,999599
+1113,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,15.41,55.0,975599
+1114,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,14.84,55.0,1099599
+1115,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.13,55.0,1158599
+1116,Diesel,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Skoda Rapid,21.72,55.0,1273599
+1118,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Creta,21.38,55.0,999990
+1119,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Creta,15.29,55.0,999990
+1120,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,15.29,55.0,1232534
+1121,Petrol,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Hyundai Creta,15.29,55.0,1394437
+1122,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,15.29,55.0,1377363
+1123,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,15.29,55.0,1287041
+1124,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Creta,21.38,55.0,1197919
+1125,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,19.67,55.0,1366797
+1126,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Hyundai Creta,19.67,55.0,1543564
+1127,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,17.01,55.0,1527395
+1128,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,19.67,55.0,1421208
+1129,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,17.01,55.0,1336033
+1130,Petrol,SUV,6,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Hyundai Creta,15.29,55.0,1422937
+1131,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Drive side airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Hyundai Creta,19.67,55.0,1572064
+1132,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Creta,21.38,55.0,1107167
+1133,Petrol,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Hyundai Creta,15.29,55.0,1092192
+1134,Petrol,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,15.29,55.0,1279983
+1135,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Hyundai Creta,19.67,55.0,1414247
+1136,Diesel,SUV,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Tata Harrier,16.7,50.0,1345363
+1137,Diesel,SUV,6,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",None,Tata Harrier,16.7,50.0,1471368
+1138,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Harrier,16.7,50.0,1591368
+1139,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Harrier,16.7,50.0,1721368
+1140,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Harrier,16.7,50.0,1732231
+1141,Diesel,Hatchback,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Harrier,16.7,50.0,1730755
+1145,Petrol,SUV,6,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Rear passenger head airbags, Driver knee airbag, Rear passenger curtain airbags",Yes,Mitsubishi Outlander,9.62,60.0,2693000
+1152,Hybrid,Sedan,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Honda Accord Hybrid,23.1,60.0,4321237
+1153,Diesel,Sedan,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags",Yes,Bmw 5-Series,18.12,70.0,5930000
+1154,Diesel,Sedan,8,5.0,Fully automatic climate control,"Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver head airbag, Front passenger head airbag",Yes,Bmw 5-Series,14.69,70.0,6680000
+1155,Petrol,Sedan,8,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver head airbag, Front passenger head airbag, Drive side airbag",Yes,Bmw 5-Series,15.01,70.0,5980000
+1156,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 6-Series,16.46,88.0,6890000
+1157,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag",Yes,Bmw 6-Series,16.46,88.0,7450000
+1158,Petrol,Coupe,8,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Bmw 6-Series,7.94,70.0,6440000
+1159,Diesel,Sedan,8,4.0,4 Zone climate control,"Driver head airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw 6-Series,21.76,66.0,6440000
+1160,Petrol,SUV,7,5.0,2 Zone Climate Control,"Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Driver frontal airbag",Yes,Porsche Macan,10.8,65.0,8503000
+1161,Petrol,SUV,7,5.0,3 Zone climate control,"Front passenger side airbag, Curtain airbags, Rear passenger side airbags, Driver head airbag, Front passenger head airbag, Driver frontal airbag, Front passenger frontal airbag",Yes,Porsche Macan,10.8,65.0,6998000
+1163,Petrol,Coupe,8,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Jaguar F-Type,14.3,72.0,22155390
+1164,Petrol,Coupe,8,2.0,2 Zone Climate Control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Jaguar F-Type,12.05,70.0,26501830
+1165,Petrol,Convertible,8,2.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag",Yes,Jaguar F-Type,12.05,70.0,28004965
+1166,Petrol,Coupe,8,2.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Jaguar F-Type,15.3,63.0,9092578
+1168,Petrol,Convertible,8,2.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Jaguar F-Type,10.7,63.0,10419200
+1169,Petrol,Coupe,8,2.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Jaguar F-Type,10.85,63.0,9366433
+1170,Petrol,Sedan,8,4.0,Fully automatic climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger head airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Bmw M5,9.8,68.0,15490000
+1171,Diesel,SUV,6,7.0,Fully automatic climate control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Driver knee airbag",Yes,Lexus Lx 570,18.0,93.0,23290000
+1172,Petrol,"Coupe, Convertible",7,2.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Ferrari 458 Spider,5.5,86.0,43367500
+1173,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,22.5,32.0,479000
+1174,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,22.5,32.0,526000
+1175,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Maruti Suzuki R Wagon,21.5,32.0,548000
+1176,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,22.5,32.0,434000
+1177,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,21.5,32.0,513501
+1178,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,21.5,32.0,560500
+1179,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Maruti Suzuki R Wagon,21.5,32.0,594800
+1180,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki R Wagon,22.5,32.0,441000
+1181,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki R Wagon,22.5,32.0,486001
+1182,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Front passenger frontal airbag, Driver frontal airbag",None,Maruti Suzuki R Wagon,21.5,32.0,520500
+1183,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki R Wagon,21.5,32.0,567500
+1184,Petrol,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Front passenger frontal airbag,None,Maruti Suzuki R Wagon,22.5,32.0,533000
+1185,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,Driver frontal airbag,None,Maruti Suzuki R Wagon,33.54,32.0,500500
+1186,CNG,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Maruti Suzuki R Wagon,33.54,32.0,507500
+1187,Petrol,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago Nrg,23.84,35.0,594993
+1188,Diesel,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago Nrg,27.28,35.0,689993
+1189,Petrol,Crossover,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",Yes,Tata Tiago Nrg,23.84,35.0,639993
+1190,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Nuvosport,17.21,60.0,797802
+1191,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Nuvosport,17.21,60.0,905642
+1192,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Nuvosport,17.21,60.0,984818
+1194,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Nuvosport,16.21,60.0,972359
+1195,Diesel,SUV,5,7.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Mahindra Nuvosport,16.21,60.0,1048603
+1196,Petrol,SUV,6,5.0,Air Conditioning with cooling only,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Kicks,14.23,50.0,955000
+1197,Petrol,SUV,6,5.0,Air Conditioning with cooling only,"Front passenger frontal airbag, Driver frontal airbag",None,Nissan Kicks,14.23,50.0,1095000
+1198,Diesel,SUV,6,5.0,Air Conditioning with cooling only,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Kicks,20.45,50.0,1109000
+1199,Diesel,SUV,6,5.0,Air Conditioning with cooling only,"Driver frontal airbag, Front passenger frontal airbag",Yes,Nissan Kicks,20.45,50.0,1251000
+1200,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Nissan Kicks,20.45,50.0,1369000
+1201,Diesel,SUV,6,5.0,Fully automatic climate control,"Front passenger frontal airbag, Driver frontal airbag",Yes,Nissan Kicks,20.45,50.0,1465000
+1202,Diesel,SUV,6,5.0,Fully automatic climate control,"Front passenger frontal airbag, Curtain airbags, Driver frontal airbag",Yes,Nissan Kicks,20.45,50.0,1465000
+1203,Diesel,SUV,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Nissan Kicks,20.45,50.0,989000
+1208,Diesel,SUV,8,7.0,3 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Land Rover Discovery,18.0,85.0,10205494
+1209,Diesel,SUV,8,7.0,Fully automatic climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Land Rover Discovery,18.0,85.0,9689321
+1210,Petrol,SUV,8,7.0,3 Zone climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Land Rover Discovery,9.17,89.0,8433741
+1211,Petrol,SUV,8,7.0,Fully automatic climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Land Rover Discovery,9.17,89.0,8077550
+1212,Diesel,SUV,8,7.0,2 Zone Climate Control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Curtain airbags",Yes,Land Rover Discovery,18.0,85.0,8877094
+1213,Petrol,SUV,8,7.0,2 Zone Climate Control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Land Rover Discovery,9.17,89.0,7693664
+1214,Diesel,SUV,8,7.0,Fully automatic climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Front passenger frontal airbag, Curtain airbags, Front passenger side airbag",Yes,Land Rover Discovery,18.0,85.0,10861088
+1215,Petrol,SUV,8,7.0,Fully automatic climate control,"Driver head airbag, Front passenger head airbag, Drive side airbag, Driver frontal airbag, Curtain airbags, Front passenger frontal airbag, Front passenger side airbag",Yes,Land Rover Discovery,9.17,89.0,8937846
+1221,Petrol,Hatchback,5,5.0,Air Conditioning with cooling only,None,None,Fiat Punto Evo,15.7,45.0,535562
+1224,Diesel,Hatchback,5,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag",None,Fiat Punto Evo,21.2,45.0,747774
+1225,Petrol,Sedan,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Driver knee airbag, Curtain airbags",None,Toyota Yaris,17.1,42.0,940000
+1226,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.1,42.0,1055000
+1227,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.1,42.0,1174000
+1228,Petrol,Sedan,7,5.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Toyota Yaris,17.8,42.0,1418000
+1229,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.8,42.0,1175000
+1230,Petrol,Sedan,7,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Drive side airbag, Front passenger side airbag, Driver knee airbag, Curtain airbags",None,Toyota Yaris,17.8,42.0,1010000
+1231,Petrol,Sedan,7,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.8,42.0,1294000
+1232,Petrol,Sedan,6,5.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger side airbag, Driver knee airbag",Yes,Toyota Yaris,17.1,42.0,1296000
+1233,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.1,42.0,1197000
+1234,Petrol,Sedan,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Yaris,17.1,42.0,876000
+1235,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag",None,Toyota Yaris,17.1,42.0,974000
+1236,Petrol,Sedan,6,5.0,Manual Air conditioning with cooling and heating,"Driver frontal airbag, Front passenger frontal airbag, Driver knee airbag",None,Toyota Yaris,17.1,42.0,935000
+1237,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag",None,Toyota Yaris,17.1,42.0,1083000
+1238,Petrol,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger side airbag, Driver knee airbag, Drive side airbag, Curtain airbags",None,Toyota Yaris,17.1,42.0,1317000
+1239,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,16.7,50.0,1599599
+1240,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Skoda Octavia,21.0,50.0,1799599
+1241,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,16.7,50.0,1899599
+1242,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,15.1,50.0,2059599
+1243,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,21.0,50.0,2079599
+1244,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger side airbag",None,Skoda Octavia,19.5,50.0,2299599
+1245,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Skoda Octavia,15.1,50.0,2359599
+1246,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Driver frontal airbag, Rear passenger curtain airbags, Front passenger side airbag",Yes,Skoda Octavia,19.5,50.0,2359599
+1247,Petrol,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,16.7,50.0,1549000
+1248,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",None,Skoda Octavia,21.0,50.0,1699000
+1249,Petrol,Sedan,7,5.0,2 Zone Climate Control,"Drive side airbag, Front passenger curtain airbag, Driver curtain airbag, Rear passenger curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Skoda Octavia,15.1,50.0,1999599
+1250,Diesel,Sedan,6,5.0,2 Zone Climate Control,"Drive side airbag, Driver frontal airbag, Front passenger curtain airbag, Front passenger side airbag, Rear passenger curtain airbags",Yes,Skoda Octavia,19.5,50.0,2199599
+1255,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Verito,21.0,50.0,748370
+1256,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Verito,21.0,50.0,772617
+1257,Diesel,Sedan,5,5.0,Manual Air conditioning with cooling and heating,None,None,Mahindra Verito,21.0,50.0,845154
+1258,Diesel,SUV,5,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mitsubishi Pajero Sport,10.77,70.0,2903750
+1259,Diesel,SUV,5,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mitsubishi Pajero Sport,10.77,70.0,2835500
+1260,Diesel,SUV,5,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mitsubishi Pajero Sport,10.77,70.0,2953240
+1261,Diesel,SUV,5,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mitsubishi Pajero Sport,10.77,70.0,2992800
+1262,Diesel,SUV,5,7.0,2 Zone Climate Control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Mitsubishi Pajero Sport,10.77,70.0,2952500
+1263,Petrol,Sedan,8,4.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags",Yes,Bentley Flying Spur,4.0,90.0,34167064
+1264,Petrol,Sedan,8,4.0,Fully automatic climate control,"Front passenger frontal airbag, Front passenger side airbag, Rear passenger side airbags, Curtain airbags, Driver frontal airbag",Yes,Bentley Flying Spur,4.0,90.0,39382083
+1265,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda City,17.4,40.0,991000
+1266,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,17.8,40.0,1065900
+1267,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,17.4,40.0,1182000
+1268,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,18.0,40.0,1312000
+1269,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",None,Honda City,25.6,40.0,1111000
+1270,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,25.6,40.0,1191000
+1271,Diesel,Sedan,6,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,25.1,40.0,1302000
+1272,Diesel,Sedan,6,5.0,Fully automatic climate control,"Drive side airbag, Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag",Yes,Honda City,25.1,40.0,1421000
+1273,Petrol,Sedan,5,5.0,Fully automatic climate control,"Curtain airbags, Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag",Yes,Honda City,22.6,40.0,1431000
+1274,Petrol,Sedan,5,5.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag",Yes,Honda City,17.8,40.0,1201000
+1275,Diesel,SUV,5,7.0,Fully automatic climate control,"Driver frontal airbag, Front passenger frontal airbag, Front passenger side airbag, Drive side airbag, Curtain airbags",Yes,Mitsubishi Montero,11.56,88.0,6862560
